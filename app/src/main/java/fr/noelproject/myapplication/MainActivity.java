@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int DEFAULT_VALUE_TIMER = 10000;
     private static final int NUMBER_COLUMN_SERIES = 6;
-    private static final int DEFAULT_NUMBER_SERIES = 4;
+    private static final int DEFAULT_NUMBER_SERIES = 6;
 
     private Chronometer chronometer;
     private boolean isStarted;
